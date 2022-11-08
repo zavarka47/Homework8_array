@@ -18,7 +18,7 @@ public class Main {
 
         int [] freeArrey = {6, 126, 17, 28};
 
-        System.out.println("\n");
+        System.out.println( );
 
         System.out.println("Exercise 2");
         //Пройдите по каждому из трех массивов и распечатайте все элементы всех трех массивов,
